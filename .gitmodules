@@ -1,0 +1,3 @@
+[submodule "airwide.ril.samsung"]
+	path = airwide.ril.samsung
+	url = https://github.com/airwide-code/airwide.ril.samsung.git
